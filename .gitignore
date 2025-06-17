@@ -1,6 +1,6 @@
-modDataset
+modified_dataset
 plots
 case_dataset/
 *.pdf
 *.zip
-code
+code/README.md
